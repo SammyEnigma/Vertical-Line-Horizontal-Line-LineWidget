@@ -1,2 +1,4 @@
-# Vertical-Line-Horizontal-Line-LineWidget
+# LineWidget
 LineWidget to draw Vertical and Horizontal Line
+
+![screenshot](./screenshot.png)
